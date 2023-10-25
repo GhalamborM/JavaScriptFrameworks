@@ -4,7 +4,7 @@
 ### https://ejs.co/
 ### https://www.jsviews.com/
 ### https://markojs.com/
-### [https://ejs.co/](https://handlebarsjs.com/)
+### [handlebarsjs](https://handlebarsjs.com/)
 
 ----------
 
